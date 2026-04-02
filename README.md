@@ -6,4 +6,6 @@ new api python with flask and docker
 
 Comando para criar: ```python -m venv venv```
 
-Comando para ativar: ```source venv/bin/activate``` (Mac/Linux) ou ```venv\Scripts\activate``` (Windows).
+Comando para ativar: ```source venv/bin/activate``` (Mac/Linux) ou                    
+                     ```venv\Scripts\activate``` (Windows).
+                     
